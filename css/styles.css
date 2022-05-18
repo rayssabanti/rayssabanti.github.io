@@ -216,7 +216,7 @@ footer {
 .btn-rounded-white {
     display: inline-block;
     color: #fff;
-    padding: 15px 25px;
+    padding: 10px 15px;
     border: 3px solid #fff;
     border-radius: 30px;
     transition: .5s ease all
@@ -263,8 +263,8 @@ footer {
 #lead {
     position: relative;
     height: 100vh;
-    min-height: 300px;
-    max-height: 500px;
+    min-height: 100px;
+    max-height: 350px;
     background: url(../images/lead-bg.png);
     background-size: cover;
     padding: 15px;
